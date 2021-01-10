@@ -1,2 +1,5 @@
 # Web-Hacking-101
-The code for my Web Hacking 101 lecture
+
+Here you will find the code for my Web Hacking 101 lecture.
+
+This is meant for educational purposes only.
